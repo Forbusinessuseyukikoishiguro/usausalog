@@ -1,0 +1,1027 @@
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/diagram/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/diagram/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/exceptions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/helpers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/results.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/testing.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/unicode.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/util.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_impl.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_compat.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_impl.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/__version__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/_internal_utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/api.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/auth.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/certs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/cookies.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/help.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/hooks.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/models.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/packages.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/sessions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/status_codes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/structures.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__version__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/_internal_utils.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/adapters.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/api.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/auth.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/certs.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/compat.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/cookies.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/exceptions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/help.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/hooks.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/models.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/packages.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/sessions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/status_codes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/structures.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/utils.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/providers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/reporters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/resolvers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/structs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/__pycache__/collections_abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/providers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/reporters.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/resolvers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/structs.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__main__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/__main__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_cell_widths.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_emoji_codes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_emoji_replace.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_export_format.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_extension.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_fileno.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_inspect.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_log_render.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_loop.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_null_file.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_palettes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_pick.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_ratio.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_spinners.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_stack.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_timer.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_win32_console.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_windows.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_windows_renderer.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_wrap.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/align.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/ansi.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/bar.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/box.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/cells.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/color.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/color_triplet.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/columns.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/console.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/constrain.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/containers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/control.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/default_styles.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/diagnose.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/emoji.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/errors.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/file_proxy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/filesize.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/highlighter.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/json.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/jupyter.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/layout.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/live.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/live_render.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/logging.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/markup.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/measure.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/padding.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/pager.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/palette.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/panel.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/pretty.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/progress.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/progress_bar.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/prompt.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/protocol.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/region.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/repr.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/rule.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/scope.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/screen.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/segment.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/spinner.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/status.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/style.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/styled.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/syntax.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/table.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/terminal_theme.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/text.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/theme.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/themes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/traceback.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/tree.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_cell_widths.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_emoji_codes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_emoji_replace.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_export_format.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_extension.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_fileno.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_inspect.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_log_render.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_loop.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_null_file.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_palettes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_pick.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_ratio.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_spinners.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_stack.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_timer.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_win32_console.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_windows.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_windows_renderer.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_wrap.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/abc.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/align.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/ansi.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/bar.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/box.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/cells.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/color.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/color_triplet.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/columns.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/console.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/constrain.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/containers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/control.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/default_styles.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/diagnose.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/emoji.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/errors.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/file_proxy.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/filesize.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/highlighter.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/json.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/jupyter.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/layout.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/live.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/live_render.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/logging.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/markup.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/measure.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/padding.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/pager.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/palette.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/panel.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/pretty.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/progress.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/progress_bar.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/prompt.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/protocol.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/region.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/repr.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/rule.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/scope.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/screen.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/segment.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/spinner.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/status.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/style.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/styled.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/syntax.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/table.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/terminal_theme.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/text.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/theme.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/themes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/traceback.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/tree.py'
+rm 'venv/Lib/site-packages/pip/_vendor/six.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/_asyncio.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/_utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/after.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/before.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/before_sleep.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/nap.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/retry.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/stop.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/tornadoweb.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/wait.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/_asyncio.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/_utils.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/after.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/before.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/before_sleep.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/nap.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/retry.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/stop.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/tornadoweb.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/wait.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/_parser.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/_re.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/_types.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/_parser.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/_re.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/_types.py'
+rm 'venv/Lib/site-packages/pip/_vendor/typing_extensions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/_collections.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/_version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/connection.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/connectionpool.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/filepost.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/poolmanager.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/request.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/response.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/_collections.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/_version.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/connection.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/_appengine_environ.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/appengine.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/ntlmpool.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/pyopenssl.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/securetransport.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/socks.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/bindings.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/low_level.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/appengine.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/socks.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/exceptions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/fields.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/filepost.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/__pycache__/six.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/makefile.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/six.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/request.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/response.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/connection.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/proxy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/queue.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/request.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/response.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/retry.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/ssl_.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/ssl_match_hostname.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/ssltransport.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/timeout.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/url.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/wait.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/connection.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/proxy.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/queue.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/response.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/retry.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/ssltransport.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/wait.py'
+rm 'venv/Lib/site-packages/pip/_vendor/vendor.txt'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/labels.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/mklabels.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/labels.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/mklabels.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/tests.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py'
+rm 'venv/Lib/site-packages/pip/py.typed'
+rm 'venv/Lib/site-packages/pkg_resources/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__pycache__/appdirs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__pycache__/zipp.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/appdirs.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_legacy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/readers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/simple.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_adapters.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_common.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_compat.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_itertools.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_legacy.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/abc.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/readers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/simple.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__pycache__/context.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__pycache__/functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/context.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/functools.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/text/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/text/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__pycache__/more.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__pycache__/recipes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/more.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/recipes.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/__about__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/_manylinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/_musllinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/_structures.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/markers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/requirements.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/specifiers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/tags.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/_manylinux.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/_musllinux.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/tags.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/version.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/actions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/core.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/helpers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/results.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/testing.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/unicode.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/actions.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/common.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/core.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/diagram/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/diagram/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/exceptions.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/helpers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/results.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/testing.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/unicode.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/util.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/zipp.py'
+rm 'venv/Lib/site-packages/pkg_resources/extern/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/extern/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/INSTALLER'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/LICENSE'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/METADATA'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/RECORD'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/REQUESTED'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/WHEEL'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/entry_points.txt'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/top_level.txt'
+rm 'venv/Lib/site-packages/setuptools/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_deprecation_warning.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_entry_points.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_imp.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_importlib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_path.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_reqs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/archive_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/build_meta.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/dep_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/depends.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/discovery.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/dist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/errors.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/extension.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/glob.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/installer.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/launch.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/logging.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/monkey.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/msvc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/namespaces.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/package_index.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/py34compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/sandbox.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/unicode_utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/wheel.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/windows_support.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_deprecation_warning.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_collections.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_macos_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_msvccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/archive_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/bcppcompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/ccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/cmd.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/config.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/core.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/cygwinccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/debug.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/dep_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/dir_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/dist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/errors.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/extension.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/fancy_getopt.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/file_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/filelist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/log.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/msvc9compiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/msvccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/py38compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/py39compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/spawn.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/sysconfig.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/text_file.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/unixccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/versionpredicate.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_collections.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_functools.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_macos_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_msvccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/archive_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/bcppcompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/ccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/cmd.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/_framework_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/bdist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/bdist_dumb.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/bdist_rpm.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_clib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_ext.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_py.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_scripts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/check.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/clean.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/config.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_data.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_egg_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_headers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_lib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_scripts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/py37compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/register.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/sdist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/upload.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/_framework_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/bdist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/bdist_dumb.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/bdist_rpm.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_clib.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_ext.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_py.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_scripts.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/check.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/clean.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/config.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_data.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_egg_info.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_headers.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_lib.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_scripts.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/py37compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/register.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/sdist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/upload.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/config.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/core.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/cygwinccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/debug.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/dep_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/dir_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/dist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/errors.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/extension.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/fancy_getopt.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/file_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/filelist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/log.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/msvc9compiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/msvccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/py38compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/py39compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/spawn.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/sysconfig.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/text_file.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/unixccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/version.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/versionpredicate.py'
+rm 'venv/Lib/site-packages/setuptools/_entry_points.py'
+rm 'venv/Lib/site-packages/setuptools/_imp.py'
+rm 'venv/Lib/site-packages/setuptools/_importlib.py'
+rm 'venv/Lib/site-packages/setuptools/_itertools.py'
+rm 'venv/Lib/site-packages/setuptools/_path.py'
+rm 'venv/Lib/site-packages/setuptools/_reqs.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/ordered_set.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/typing_extensions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/zipp.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_collections.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_meta.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_text.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_adapters.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_collections.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_functools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_itertools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_meta.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_text.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_legacy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/readers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/simple.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_adapters.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_common.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_itertools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_legacy.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/abc.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/readers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/simple.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__pycache__/context.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__pycache__/functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/context.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/functools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/text/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/text/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__pycache__/more.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__pycache__/recipes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/more.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/recipes.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/ordered_set.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__about__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/__about__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/_manylinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/_musllinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/_structures.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/markers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/requirements.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/specifiers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/tags.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/_manylinux.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/_musllinux.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/_structures.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/markers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/requirements.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/specifiers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/tags.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/utils.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/version.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/actions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/core.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/helpers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/results.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/testing.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/unicode.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/actions.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/common.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/core.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/diagram/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/diagram/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/exceptions.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/helpers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/results.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/testing.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/unicode.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/util.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/_parser.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/_re.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/_types.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/_parser.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/_re.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/_types.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/typing_extensions.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/zipp.py'
+rm 'venv/Lib/site-packages/setuptools/archive_util.py'
+rm 'venv/Lib/site-packages/setuptools/build_meta.py'
+rm 'venv/Lib/site-packages/setuptools/cli-32.exe'
+rm 'venv/Lib/site-packages/setuptools/cli-64.exe'
+rm 'venv/Lib/site-packages/setuptools/cli-arm64.exe'
+rm 'venv/Lib/site-packages/setuptools/cli.exe'
+rm 'venv/Lib/site-packages/setuptools/command/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/alias.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/bdist_egg.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/bdist_rpm.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build_clib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build_ext.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build_py.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/develop.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/dist_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/easy_install.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/editable_wheel.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/egg_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install_egg_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install_lib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install_scripts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/py36compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/register.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/rotate.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/saveopts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/sdist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/setopt.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/test.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/upload.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/upload_docs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/alias.py'
+rm 'venv/Lib/site-packages/setuptools/command/bdist_egg.py'
+rm 'venv/Lib/site-packages/setuptools/command/bdist_rpm.py'
+rm 'venv/Lib/site-packages/setuptools/command/build.py'
+rm 'venv/Lib/site-packages/setuptools/command/build_clib.py'
+rm 'venv/Lib/site-packages/setuptools/command/build_ext.py'
+rm 'venv/Lib/site-packages/setuptools/command/build_py.py'
+rm 'venv/Lib/site-packages/setuptools/command/develop.py'
+rm 'venv/Lib/site-packages/setuptools/command/dist_info.py'
+rm 'venv/Lib/site-packages/setuptools/command/easy_install.py'
+rm 'venv/Lib/site-packages/setuptools/command/editable_wheel.py'
+rm 'venv/Lib/site-packages/setuptools/command/egg_info.py'
+rm 'venv/Lib/site-packages/setuptools/command/install.py'
+rm 'venv/Lib/site-packages/setuptools/command/install_egg_info.py'
+rm 'venv/Lib/site-packages/setuptools/command/install_lib.py'
+rm 'venv/Lib/site-packages/setuptools/command/install_scripts.py'
+rm 'venv/Lib/site-packages/setuptools/command/launcher manifest.xml'
+rm 'venv/Lib/site-packages/setuptools/command/py36compat.py'
+rm 'venv/Lib/site-packages/setuptools/command/register.py'
+rm 'venv/Lib/site-packages/setuptools/command/rotate.py'
+rm 'venv/Lib/site-packages/setuptools/command/saveopts.py'
+rm 'venv/Lib/site-packages/setuptools/command/sdist.py'
+rm 'venv/Lib/site-packages/setuptools/command/setopt.py'
+rm 'venv/Lib/site-packages/setuptools/command/test.py'
+rm 'venv/Lib/site-packages/setuptools/command/upload.py'
+rm 'venv/Lib/site-packages/setuptools/command/upload_docs.py'
+rm 'venv/Lib/site-packages/setuptools/config/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/_apply_pyprojecttoml.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/expand.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/pyprojecttoml.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/setupcfg.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_apply_pyprojecttoml.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/error_reporting.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/extra_validations.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/fastjsonschema_exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/fastjsonschema_validations.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/formats.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/error_reporting.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/extra_validations.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_exceptions.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_validations.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/formats.py'
+rm 'venv/Lib/site-packages/setuptools/config/expand.py'
+rm 'venv/Lib/site-packages/setuptools/config/pyprojecttoml.py'
+rm 'venv/Lib/site-packages/setuptools/config/setupcfg.py'
+rm 'venv/Lib/site-packages/setuptools/dep_util.py'
+rm 'venv/Lib/site-packages/setuptools/depends.py'
+rm 'venv/Lib/site-packages/setuptools/discovery.py'
+rm 'venv/Lib/site-packages/setuptools/dist.py'
+rm 'venv/Lib/site-packages/setuptools/errors.py'
+rm 'venv/Lib/site-packages/setuptools/extension.py'
+rm 'venv/Lib/site-packages/setuptools/extern/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/extern/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/glob.py'
+rm 'venv/Lib/site-packages/setuptools/gui-32.exe'
+rm 'venv/Lib/site-packages/setuptools/gui-64.exe'
+rm 'venv/Lib/site-packages/setuptools/gui-arm64.exe'
+rm 'venv/Lib/site-packages/setuptools/gui.exe'
+rm 'venv/Lib/site-packages/setuptools/installer.py'
+rm 'venv/Lib/site-packages/setuptools/launch.py'
+rm 'venv/Lib/site-packages/setuptools/logging.py'
+rm 'venv/Lib/site-packages/setuptools/monkey.py'
+rm 'venv/Lib/site-packages/setuptools/msvc.py'
+rm 'venv/Lib/site-packages/setuptools/namespaces.py'
+rm 'venv/Lib/site-packages/setuptools/package_index.py'
+rm 'venv/Lib/site-packages/setuptools/py34compat.py'
+rm 'venv/Lib/site-packages/setuptools/sandbox.py'
+rm 'venv/Lib/site-packages/setuptools/script (dev).tmpl'
+rm 'venv/Lib/site-packages/setuptools/script.tmpl'
+rm 'venv/Lib/site-packages/setuptools/unicode_utils.py'
+rm 'venv/Lib/site-packages/setuptools/version.py'
+rm 'venv/Lib/site-packages/setuptools/wheel.py'
+rm 'venv/Lib/site-packages/setuptools/windows_support.py'
+rm 'venv/Scripts/Activate.ps1'
+rm 'venv/Scripts/activate'
+rm 'venv/Scripts/activate.bat'
+rm 'venv/Scripts/deactivate.bat'
+rm 'venv/Scripts/pip.exe'
+rm 'venv/Scripts/pip3.11.exe'
+rm 'venv/Scripts/pip3.exe'
+rm 'venv/Scripts/python.exe'
+rm 'venv/Scripts/pythonw.exe'
+rm 'venv/pyvenv.cfg'
+PS C:\Users\yukik\Desktop\excel\usausalog> git config core.autocrlf false
+PS C:\Users\yukik\Desktop\excel\usausalog> git rm -r --cached venv
+fatal: pathspec 'venv' did not match any files
+PS C:\Users\yukik\Desktop\excel\usausalog> git add .gitignore
+PS C:\Users\yukik\Desktop\excel\usausalog> git commit -m "Add .gitignore and remove venv from tracking"
+[master (root-commit) 03a09a4] Add .gitignore and remove venv from tracking
+ 5 files changed, 95 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 __pycache__/usa_logger.cpython-311.pyc
+ create mode 100644 logs/usausa.log
+ create mode 100644 main.py
+ create mode 100644 usa_logger.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Forbusinessuseyukikoishiguro/usausalog.git'
+PS C:\Users\yukik\Desktop\excel\usausalog> git branch
+>>
+* master
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin master
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (9/9), 3.29 KiB | 336.00 KiB/s, done.
+Total 9 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+ * [new branch]      master -> master
+PS C:\Users\yukik\Desktop\excel\usausalog> git branch -m master main          # ローカルのブランチ名を main に変更
+PS C:\Users\yukik\Desktop\excel\usausalog> git push -u origin main            # GitHub に main ブランチとしてプッシュ
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'main' on GitHub by visiting:
+remote:      https://github.com/Forbusinessuseyukikoishiguro/usausalog/pull/new/main
+remote:
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\yukik\Desktop\excel\usausalog> git fetch
+>>
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main origin/main
+PS C:\Users\yukik\Desktop\excel\usausalog> git status
+>>
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main.py
+>>
+diff --git a/main.py b/main.py
+diff --git a/main.py b/main.py
+index 33b2516..5bd04ce 100644
+--- a/main.py
++++ b/main.py
+@@ -1,10 +1,12 @@
+-from usa_logger import setup_usausa_logger
+-
+-logger = setup_usausa_logger()
+-
+-logger.info("今日のうぐいす大福は大人気でした！")
+-logger.warning("白玉粉が残り少ないです…")
+-logger.error("冷蔵庫が壊れました！！")
+-logger.debug("在庫チェックを開始します")
+-logger.critical("店舗の水道が止まりました！！！")
+-logger.info("在庫チェックが完了しました")
++from usa_logger import setup_usausa_logger^M
++^M
++logger = setup_usausa_logger()^M
++^M
++logger.info("今日のうぐいす大福は大人気でした！")^M
++logger.warning("白玉粉が残り少ないです…")^M
++logger.error("冷蔵庫が壊れました！！")^M
++logger.debug("在庫チェックを開始します")^M
++logger.critical("店舗の水道が止まりました！！！")^M
++logger.info("在庫チェックが完了しました")^M
++^M
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main.py
+>>
+diff --git a/main.py b/main.py
+index 33b2516..206b996 100644
+--- a/main.py
++++ b/main.py
+@@ -8,3 +8,7 @@ logger.error("冷蔵庫が壊れました！！")
+ logger.debug("在庫チェックを開始します")
+ logger.critical("店舗の水道が止まりました！！！")
+ logger.info("在庫チェックが完了しました")
++
++#testhogehoge
++#hogehoge
++#testhogehoge
+PS C:\Users\yukik\Desktop\excel\usausalog> git add main.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git commit -m "Add test comments to main.py"
+[main ed310a1] Add test comments to main.py
+ 1 file changed, 4 insertions(+)
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 321 bytes | 160.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+   03a09a4..ed310a1  main -> main
+PS C:\Users\yukik\Desktop\excel\usausalog> git status
+>> 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+        modified:   usa_logger.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitattributes
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\yukik\Desktop\excel\usausalog> git fetch
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff origin/main
+diff --git a/main.py b/main.py
+index 206b996..437c9a1 100644
+--- a/main.py
++++ b/main.py
+@@ -12,3 +12,5 @@ logger.info("在庫チェックが完了しました")
+ #testhogehoge
+ #hogehoge
+ #testhogehoge
++
++#stash#コミットしない
+diff --git a/usa_logger.py b/usa_logger.py
+index 2486b4b..9d820af 100644
+--- a/usa_logger.py
++++ b/usa_logger.py
+@@ -57,4 +57,7 @@ def setup_usausa_logger(log_dir='logs', log_name='usausa.log'):
+ # 2025-10-05 17:00:07,039 [WARNING] - 白玉粉が残り少ないです…
+ # 2025-10-05 17:00:07,039 [ERROR] - 冷蔵庫が壊れました！！
+ # 2025-10-05 17:00:07,039 [CRITICAL] - 店舗の水道が止まりました！！！
+-# 2025-10-05 17:00:07,039 [INFO] - 在庫チェックが完了しました
+\ No newline at end of file
++# 2025-10-05 17:00:07,039 [INFO] - 在庫チェックが完了しました
++
++
++#stashテスト入れる
+\ No newline at end of file
+PS C:\Users\yukik\Desktop\excel\usausalog> ^C
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff --name-only origin/main
+>>
+main.py
+usa_logger.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git add usa_logger.py
+>> git commit -m "stashテスト入れる"  # 適宜メッセージ変えてOK
+>> git push origin main
+>>
+[main 670a029] stashテスト入れる
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 57.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+   ed310a1..670a029  main -> main
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash push -m "main.pyの一時避難"
+Saved working directory and index state On main: main.pyの一時避難
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash list
+>>
+stash@{0}: On main: main.pyの一時避難
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash pop stash@{0}  # 例: 一番新しいスタッシュを戻す
+error: unknown switch `e'
+usage: git stash pop [--index] [-q | --quiet] [<stash>]
+
+    -q, --[no-]quiet      be quiet, only report errors
+    --[no-]index          attempt to recreate the index
+
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash pop
+>>
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitattributes
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (fff1a2a9cbe1179f0a8d25e7be1eb8898e92e3a9)
+PS C:\Users\yukik\Desktop\excel\usausalog> git checkout main
+M       main.py
+M       usa_logger.py
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\yukik\Desktop\excel\usausalog> git pull origin main
+From https://github.com/Forbusinessuseyukikoishiguro/usausalog
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+PS C:\Users\yukik\Desktop\excel\usausalog> git checkout -b feature/new-feature
+>>
+Switched to a new branch 'feature/new-feature'
+PS C:\Users\yukik\Desktop\excel\usausalog> 
+   
