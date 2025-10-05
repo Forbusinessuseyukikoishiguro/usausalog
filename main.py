@@ -8,3 +8,7 @@ logger.error("冷蔵庫が壊れました！！")
 logger.debug("在庫チェックを開始します")
 logger.critical("店舗の水道が止まりました！！！")
 logger.info("在庫チェックが完了しました")
+
+#testhogehoge
+#hogehoge
+#testhogehoge
