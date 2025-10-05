@@ -1,0 +1,153 @@
+「新人エンジニア向け・GitとGitHubの基本操作手順」をわかりやすくまとめましょう。
+以下は、**実務でもそのまま使える流れ**です。
+
+---
+
+# 🧭 GitとGitHub連携の基本操作（新人エンジニア向け）
+
+## はじめに
+
+今回は、**GitとGitHubを連携して使う基本の流れ**を、実際のコマンド例とともに丁寧に解説します。
+初めてGitを触る新人エンジニアの方でも、「あ、こうやって進めるんだ！」とイメージできる内容になっています。
+
+---
+
+## 1. リポジトリを作成する
+
+まず、GitHubで新しいリポジトリ（プロジェクトの入れ物）を作ります。
+例：`usausalog`
+
+次に、ローカル（自分のPC）でリポジトリをクローン（コピー）します：
+
+```bash
+git clone https://github.com/ユーザー名/リポジトリ名.git
+cd リポジトリ名
+```
+
+---
+
+## 2. ファイルを作成してGitに登録
+
+作業ディレクトリ内でファイルを作成します。
+例：`main.py` と `usa_logger.py`
+
+Gitで管理するには、以下のコマンドを使います：
+
+```bash
+git add main.py usa_logger.py
+git commit -m "最初のコミット"
+```
+
+---
+
+## 3. ブランチを確認・変更
+
+Gitには複数の「ブランチ（作業の枝）」を作ることができます。
+最初は `master` ブランチのことが多いですが、GitHubでは `main` が標準です。
+
+```bash
+git branch        # 現在のブランチ確認
+git branch -m master main   # 名前をmainに変更
+```
+
+---
+
+## 4. GitHubへプッシュ（アップロード）
+
+初回プッシュ時は次のようにします：
+
+```bash
+git push -u origin main
+```
+
+これで、GitHubのリポジトリに `main` ブランチが作成され、同期されます。
+
+---
+
+## 5. 変更を加えたら再コミット
+
+ファイルを編集したら、再度以下の流れを繰り返します：
+
+```bash
+git status       # 変更確認
+git diff         # 内容確認
+git add main.py  # 変更をステージング
+git commit -m "変更内容を説明"
+git push origin main  # GitHubへ反映
+```
+
+---
+
+## 6. 作業を一時的に退避したい（stash）
+
+作業途中で他のブランチに切り替えたい場合、`stash` が便利です。
+変更を一時的に避難させます。
+
+```bash
+git stash push -m "main.pyの一時避難"
+git stash list         # スタッシュ一覧
+git stash pop          # 一番新しいスタッシュを戻す
+```
+
+---
+
+## 7. 新しい機能を作る（ブランチの活用）
+
+機能ごとにブランチを切ると、開発が安全・効率的になります。
+
+```bash
+git checkout -b feature/new-feature
+```
+
+作業が終わったら：
+
+```bash
+git add .
+git commit -m "新機能追加"
+git push origin feature/new-feature
+```
+
+GitHub上で「Pull Request（PR）」を作成すれば、`main` にマージ（統合）できます。
+
+---
+
+## 8. 最新状態を取り込む（pull）
+
+他の人が更新した変更を取り込むときは：
+
+```bash
+git pull origin main
+```
+
+これで、チーム全員が最新の状態で作業できます。
+
+---
+
+## 9. よく使うGitコマンド早見表
+
+| コマンド                        | 説明        |
+| --------------------------- | --------- |
+| `git status`                | 変更状況の確認   |
+| `git diff`                  | 変更内容の確認   |
+| `git add <file>`            | 変更をステージング |
+| `git commit -m "メッセージ"`     | 変更を保存     |
+| `git push origin <branch>`  | GitHubへ反映 |
+| `git pull origin <branch>`  | 最新変更を取得   |
+| `git stash push`            | 作業の一時退避   |
+| `git stash pop`             | 退避した作業を戻す |
+| `git checkout -b <branch>`  | 新しいブランチ作成 |
+| `git branch -m master main` | ブランチ名変更   |
+
+---
+
+## 終わりに
+
+Gitのコマンドは最初は少し難しく感じるかもしれませんが、
+一連の流れを理解すれば、**チーム開発でも安心して使いこなせるようになります。**
+
+次のステップとしては、
+「Pull Requestの作り方」や「コンフリクト解消」なども学んでおくと良いです🌸
+
+---
+
+
