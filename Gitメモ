@@ -1,0 +1,2359 @@
+コンテンツへとスキップする
+チャット履歴
+
+あなた:
+ mode 100644 logs/usausa.log
+ create mode 100644 main.py
+ create mode 100644 usa_logger.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Forbusinessuseyukikoishiguro/usausalog.git'
+PS C:\Users\yukik\Desktop\excel\usausalog> git branch
+>>
+* master
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin master
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (9/9), 3.29 KiB | 336.00 KiB/s, done.
+Total 9 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+ * [new branch]      master -> master
+PS C:\Users\yukik\Desktop\excel\usausalog> git branch -m master main          # ローカルのブランチ名を main に変更
+PS C:\Users\yukik\Desktop\excel\usausalog> git push -u origin main            # GitHub に main ブランチとしてプッシュ
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'main' on GitHub by visiting:
+remote:      https://github.com/Forbusinessuseyukikoishiguro/usausalog/pull/new/main
+remote:
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\yukik\Desktop\excel\usausalog> git fetch
+>>
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main origin/main
+PS C:\Users\yukik\Desktop\excel\usausalog> git status
+
+
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/diagram/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/diagram/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/exceptions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/helpers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/results.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/testing.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/unicode.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyparsing/util.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_impl.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_compat.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_impl.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/__version__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/_internal_utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/api.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/auth.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/certs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/cookies.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/help.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/hooks.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/models.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/packages.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/sessions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/status_codes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/structures.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__pycache__/utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/__version__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/_internal_utils.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/adapters.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/api.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/auth.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/certs.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/compat.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/cookies.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/exceptions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/help.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/hooks.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/models.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/packages.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/sessions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/status_codes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/structures.py'
+rm 'venv/Lib/site-packages/pip/_vendor/requests/utils.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/providers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/reporters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/resolvers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/__pycache__/structs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/__pycache__/collections_abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/providers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/reporters.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/resolvers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/resolvelib/structs.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__main__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/__main__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_cell_widths.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_emoji_codes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_emoji_replace.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_export_format.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_extension.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_fileno.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_inspect.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_log_render.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_loop.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_null_file.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_palettes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_pick.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_ratio.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_spinners.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_stack.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_timer.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_win32_console.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_windows.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_windows_renderer.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/_wrap.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/align.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/ansi.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/bar.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/box.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/cells.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/color.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/color_triplet.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/columns.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/console.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/constrain.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/containers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/control.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/default_styles.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/diagnose.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/emoji.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/errors.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/file_proxy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/filesize.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/highlighter.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/json.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/jupyter.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/layout.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/live.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/live_render.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/logging.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/markup.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/measure.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/padding.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/pager.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/palette.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/panel.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/pretty.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/progress.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/progress_bar.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/prompt.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/protocol.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/region.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/repr.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/rule.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/scope.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/screen.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/segment.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/spinner.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/status.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/style.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/styled.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/syntax.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/table.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/terminal_theme.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/text.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/theme.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/themes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/traceback.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/__pycache__/tree.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_cell_widths.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_emoji_codes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_emoji_replace.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_export_format.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_extension.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_fileno.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_inspect.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_log_render.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_loop.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_null_file.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_palettes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_pick.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_ratio.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_spinners.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_stack.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_timer.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_win32_console.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_windows.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_windows_renderer.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/_wrap.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/abc.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/align.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/ansi.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/bar.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/box.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/cells.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/color.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/color_triplet.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/columns.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/console.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/constrain.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/containers.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/control.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/default_styles.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/diagnose.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/emoji.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/errors.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/file_proxy.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/filesize.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/highlighter.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/json.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/jupyter.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/layout.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/live.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/live_render.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/logging.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/markup.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/measure.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/padding.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/pager.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/palette.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/panel.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/pretty.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/progress.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/progress_bar.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/prompt.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/protocol.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/region.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/repr.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/rule.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/scope.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/screen.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/segment.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/spinner.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/status.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/style.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/styled.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/syntax.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/table.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/terminal_theme.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/text.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/theme.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/themes.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/traceback.py'
+rm 'venv/Lib/site-packages/pip/_vendor/rich/tree.py'
+rm 'venv/Lib/site-packages/pip/_vendor/six.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/_asyncio.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/_utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/after.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/before.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/before_sleep.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/nap.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/retry.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/stop.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/tornadoweb.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/__pycache__/wait.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/_asyncio.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/_utils.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/after.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/before.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/before_sleep.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/nap.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/retry.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/stop.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/tornadoweb.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tenacity/wait.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/_parser.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/_re.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/__pycache__/_types.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/_parser.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/_re.py'
+rm 'venv/Lib/site-packages/pip/_vendor/tomli/_types.py'
+rm 'venv/Lib/site-packages/pip/_vendor/typing_extensions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/_collections.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/_version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/connection.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/connectionpool.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/filepost.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/poolmanager.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/request.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/__pycache__/response.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/_collections.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/_version.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/connection.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/_appengine_environ.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/appengine.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/ntlmpool.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/pyopenssl.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/securetransport.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__pycache__/socks.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/bindings.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/low_level.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/appengine.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/contrib/socks.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/exceptions.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/fields.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/filepost.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/__pycache__/six.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/makefile.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/packages/six.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/request.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/response.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/connection.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/proxy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/queue.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/request.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/response.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/retry.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/ssl_.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/ssl_match_hostname.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/ssltransport.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/timeout.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/url.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/__pycache__/wait.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/connection.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/proxy.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/queue.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/response.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/retry.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/ssltransport.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py'
+rm 'venv/Lib/site-packages/pip/_vendor/urllib3/util/wait.py'
+rm 'venv/Lib/site-packages/pip/_vendor/vendor.txt'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__init__.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/labels.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/mklabels.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/labels.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/mklabels.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/tests.py'
+rm 'venv/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py'
+rm 'venv/Lib/site-packages/pip/py.typed'
+rm 'venv/Lib/site-packages/pkg_resources/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__pycache__/appdirs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/__pycache__/zipp.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/appdirs.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/_legacy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/readers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/__pycache__/simple.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_adapters.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_common.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_compat.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_itertools.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_legacy.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/abc.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/readers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/simple.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__pycache__/context.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__pycache__/functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/context.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/functools.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/text/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/jaraco/text/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__pycache__/more.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__pycache__/recipes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/more.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/recipes.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/__about__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/_manylinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/_musllinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/_structures.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/markers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/requirements.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/specifiers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/tags.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/_manylinux.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/_musllinux.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/tags.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/packaging/version.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/actions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/core.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/helpers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/results.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/testing.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/unicode.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/actions.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/common.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/core.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/diagram/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/diagram/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/exceptions.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/helpers.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/results.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/testing.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/unicode.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/util.py'
+rm 'venv/Lib/site-packages/pkg_resources/_vendor/zipp.py'
+rm 'venv/Lib/site-packages/pkg_resources/extern/__init__.py'
+rm 'venv/Lib/site-packages/pkg_resources/extern/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/INSTALLER'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/LICENSE'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/METADATA'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/RECORD'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/REQUESTED'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/WHEEL'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/entry_points.txt'
+rm 'venv/Lib/site-packages/setuptools-65.5.0.dist-info/top_level.txt'
+rm 'venv/Lib/site-packages/setuptools/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_deprecation_warning.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_entry_points.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_imp.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_importlib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_path.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/_reqs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/archive_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/build_meta.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/dep_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/depends.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/discovery.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/dist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/errors.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/extension.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/glob.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/installer.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/launch.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/logging.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/monkey.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/msvc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/namespaces.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/package_index.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/py34compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/sandbox.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/unicode_utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/wheel.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/__pycache__/windows_support.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_deprecation_warning.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_collections.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_macos_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/_msvccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/archive_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/bcppcompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/ccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/cmd.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/config.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/core.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/cygwinccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/debug.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/dep_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/dir_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/dist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/errors.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/extension.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/fancy_getopt.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/file_util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/filelist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/log.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/msvc9compiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/msvccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/py38compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/py39compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/spawn.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/sysconfig.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/text_file.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/unixccompiler.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/__pycache__/versionpredicate.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_collections.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_functools.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_macos_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/_msvccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/archive_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/bcppcompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/ccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/cmd.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/_framework_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/bdist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/bdist_dumb.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/bdist_rpm.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_clib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_ext.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_py.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/build_scripts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/check.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/clean.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/config.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_data.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_egg_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_headers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_lib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/install_scripts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/py37compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/register.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/sdist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/__pycache__/upload.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/_framework_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/bdist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/bdist_dumb.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/bdist_rpm.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_clib.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_ext.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_py.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/build_scripts.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/check.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/clean.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/config.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_data.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_egg_info.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_headers.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_lib.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/install_scripts.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/py37compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/register.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/sdist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/command/upload.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/config.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/core.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/cygwinccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/debug.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/dep_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/dir_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/dist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/errors.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/extension.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/fancy_getopt.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/file_util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/filelist.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/log.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/msvc9compiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/msvccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/py38compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/py39compat.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/spawn.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/sysconfig.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/text_file.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/unixccompiler.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/util.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/version.py'
+rm 'venv/Lib/site-packages/setuptools/_distutils/versionpredicate.py'
+rm 'venv/Lib/site-packages/setuptools/_entry_points.py'
+rm 'venv/Lib/site-packages/setuptools/_imp.py'
+rm 'venv/Lib/site-packages/setuptools/_importlib.py'
+rm 'venv/Lib/site-packages/setuptools/_itertools.py'
+rm 'venv/Lib/site-packages/setuptools/_path.py'
+rm 'venv/Lib/site-packages/setuptools/_reqs.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/ordered_set.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/typing_extensions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/__pycache__/zipp.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_collections.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_meta.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/__pycache__/_text.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_adapters.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_collections.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_functools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_itertools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_meta.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_text.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_adapters.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_itertools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/_legacy.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/abc.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/readers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/__pycache__/simple.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_adapters.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_common.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_compat.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_itertools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_legacy.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/abc.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/readers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/importlib_resources/simple.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__pycache__/context.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/__pycache__/functools.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/context.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/functools.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/text/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/jaraco/text/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__pycache__/more.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/__pycache__/recipes.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/more.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/more_itertools/recipes.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/ordered_set.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__about__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/__about__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/_manylinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/_musllinux.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/_structures.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/markers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/requirements.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/specifiers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/tags.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/utils.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/__pycache__/version.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/_manylinux.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/_musllinux.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/_structures.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/markers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/requirements.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/specifiers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/tags.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/utils.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/packaging/version.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/actions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/common.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/core.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/helpers.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/results.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/testing.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/unicode.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/__pycache__/util.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/actions.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/common.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/core.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/diagram/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/diagram/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/exceptions.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/helpers.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/results.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/testing.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/unicode.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/pyparsing/util.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/_parser.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/_re.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/__pycache__/_types.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/_parser.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/_re.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/tomli/_types.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/typing_extensions.py'
+rm 'venv/Lib/site-packages/setuptools/_vendor/zipp.py'
+rm 'venv/Lib/site-packages/setuptools/archive_util.py'
+rm 'venv/Lib/site-packages/setuptools/build_meta.py'
+rm 'venv/Lib/site-packages/setuptools/cli-32.exe'
+rm 'venv/Lib/site-packages/setuptools/cli-64.exe'
+rm 'venv/Lib/site-packages/setuptools/cli-arm64.exe'
+rm 'venv/Lib/site-packages/setuptools/cli.exe'
+rm 'venv/Lib/site-packages/setuptools/command/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/alias.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/bdist_egg.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/bdist_rpm.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build_clib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build_ext.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/build_py.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/develop.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/dist_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/easy_install.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/editable_wheel.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/egg_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install_egg_info.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install_lib.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/install_scripts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/py36compat.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/register.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/rotate.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/saveopts.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/sdist.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/setopt.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/test.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/upload.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/__pycache__/upload_docs.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/command/alias.py'
+rm 'venv/Lib/site-packages/setuptools/command/bdist_egg.py'
+rm 'venv/Lib/site-packages/setuptools/command/bdist_rpm.py'
+rm 'venv/Lib/site-packages/setuptools/command/build.py'
+rm 'venv/Lib/site-packages/setuptools/command/build_clib.py'
+rm 'venv/Lib/site-packages/setuptools/command/build_ext.py'
+rm 'venv/Lib/site-packages/setuptools/command/build_py.py'
+rm 'venv/Lib/site-packages/setuptools/command/develop.py'
+rm 'venv/Lib/site-packages/setuptools/command/dist_info.py'
+rm 'venv/Lib/site-packages/setuptools/command/easy_install.py'
+rm 'venv/Lib/site-packages/setuptools/command/editable_wheel.py'
+rm 'venv/Lib/site-packages/setuptools/command/egg_info.py'
+rm 'venv/Lib/site-packages/setuptools/command/install.py'
+rm 'venv/Lib/site-packages/setuptools/command/install_egg_info.py'
+rm 'venv/Lib/site-packages/setuptools/command/install_lib.py'
+rm 'venv/Lib/site-packages/setuptools/command/install_scripts.py'
+rm 'venv/Lib/site-packages/setuptools/command/launcher manifest.xml'
+rm 'venv/Lib/site-packages/setuptools/command/py36compat.py'
+rm 'venv/Lib/site-packages/setuptools/command/register.py'
+rm 'venv/Lib/site-packages/setuptools/command/rotate.py'
+rm 'venv/Lib/site-packages/setuptools/command/saveopts.py'
+rm 'venv/Lib/site-packages/setuptools/command/sdist.py'
+rm 'venv/Lib/site-packages/setuptools/command/setopt.py'
+rm 'venv/Lib/site-packages/setuptools/command/test.py'
+rm 'venv/Lib/site-packages/setuptools/command/upload.py'
+rm 'venv/Lib/site-packages/setuptools/command/upload_docs.py'
+rm 'venv/Lib/site-packages/setuptools/config/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/_apply_pyprojecttoml.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/expand.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/pyprojecttoml.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/__pycache__/setupcfg.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_apply_pyprojecttoml.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/error_reporting.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/extra_validations.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/fastjsonschema_exceptions.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/fastjsonschema_validations.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/__pycache__/formats.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/error_reporting.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/extra_validations.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_exceptions.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_validations.py'
+rm 'venv/Lib/site-packages/setuptools/config/_validate_pyproject/formats.py'
+rm 'venv/Lib/site-packages/setuptools/config/expand.py'
+rm 'venv/Lib/site-packages/setuptools/config/pyprojecttoml.py'
+rm 'venv/Lib/site-packages/setuptools/config/setupcfg.py'
+rm 'venv/Lib/site-packages/setuptools/dep_util.py'
+rm 'venv/Lib/site-packages/setuptools/depends.py'
+rm 'venv/Lib/site-packages/setuptools/discovery.py'
+rm 'venv/Lib/site-packages/setuptools/dist.py'
+rm 'venv/Lib/site-packages/setuptools/errors.py'
+rm 'venv/Lib/site-packages/setuptools/extension.py'
+rm 'venv/Lib/site-packages/setuptools/extern/__init__.py'
+rm 'venv/Lib/site-packages/setuptools/extern/__pycache__/__init__.cpython-311.pyc'
+rm 'venv/Lib/site-packages/setuptools/glob.py'
+rm 'venv/Lib/site-packages/setuptools/gui-32.exe'
+rm 'venv/Lib/site-packages/setuptools/gui-64.exe'
+rm 'venv/Lib/site-packages/setuptools/gui-arm64.exe'
+rm 'venv/Lib/site-packages/setuptools/gui.exe'
+rm 'venv/Lib/site-packages/setuptools/installer.py'
+rm 'venv/Lib/site-packages/setuptools/launch.py'
+rm 'venv/Lib/site-packages/setuptools/logging.py'
+rm 'venv/Lib/site-packages/setuptools/monkey.py'
+rm 'venv/Lib/site-packages/setuptools/msvc.py'
+rm 'venv/Lib/site-packages/setuptools/namespaces.py'
+rm 'venv/Lib/site-packages/setuptools/package_index.py'
+rm 'venv/Lib/site-packages/setuptools/py34compat.py'
+rm 'venv/Lib/site-packages/setuptools/sandbox.py'
+rm 'venv/Lib/site-packages/setuptools/script (dev).tmpl'
+rm 'venv/Lib/site-packages/setuptools/script.tmpl'
+rm 'venv/Lib/site-packages/setuptools/unicode_utils.py'
+rm 'venv/Lib/site-packages/setuptools/version.py'
+rm 'venv/Lib/site-packages/setuptools/wheel.py'
+rm 'venv/Lib/site-packages/setuptools/windows_support.py'
+rm 'venv/Scripts/Activate.ps1'
+rm 'venv/Scripts/activate'
+rm 'venv/Scripts/activate.bat'
+rm 'venv/Scripts/deactivate.bat'
+rm 'venv/Scripts/pip.exe'
+rm 'venv/Scripts/pip3.11.exe'
+rm 'venv/Scripts/pip3.exe'
+rm 'venv/Scripts/python.exe'
+rm 'venv/Scripts/pythonw.exe'
+rm 'venv/pyvenv.cfg'
+PS C:\Users\yukik\Desktop\excel\usausalog> git config core.autocrlf false
+PS C:\Users\yukik\Desktop\excel\usausalog> git rm -r --cached venv
+fatal: pathspec 'venv' did not match any files
+PS C:\Users\yukik\Desktop\excel\usausalog> git add .gitignore
+PS C:\Users\yukik\Desktop\excel\usausalog> git commit -m "Add .gitignore and remove venv from tracking"
+[master (root-commit) 03a09a4] Add .gitignore and remove venv from tracking
+ 5 files changed, 95 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 __pycache__/usa_logger.cpython-311.pyc
+ create mode 100644 logs/usausa.log
+ create mode 100644 main.py
+ create mode 100644 usa_logger.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Forbusinessuseyukikoishiguro/usausalog.git'
+PS C:\Users\yukik\Desktop\excel\usausalog> git branch
+>>
+* master
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin master
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (9/9), 3.29 KiB | 336.00 KiB/s, done.
+Total 9 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+ * [new branch]      master -> master
+PS C:\Users\yukik\Desktop\excel\usausalog> git branch -m master main          # ローカルのブランチ名を main に変更
+PS C:\Users\yukik\Desktop\excel\usausalog> git push -u origin main            # GitHub に main ブランチとしてプッシュ
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'main' on GitHub by visiting:
+remote:      https://github.com/Forbusinessuseyukikoishiguro/usausalog/pull/new/main
+remote:
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\yukik\Desktop\excel\usausalog> git fetch
+>>
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main origin/main
+PS C:\Users\yukik\Desktop\excel\usausalog> git status
+>>
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main.py
+>>
+diff --git a/main.py b/main.py
+diff --git a/main.py b/main.py
+index 33b2516..5bd04ce 100644
+--- a/main.py
++++ b/main.py
+@@ -1,10 +1,12 @@
+-from usa_logger import setup_usausa_logger
+-
+-logger = setup_usausa_logger()
+-
+-logger.info("今日のうぐいす大福は大人気でした！")
+-logger.warning("白玉粉が残り少ないです…")
+-logger.error("冷蔵庫が壊れました！！")
+-logger.debug("在庫チェックを開始します")
+-logger.critical("店舗の水道が止まりました！！！")
+-logger.info("在庫チェックが完了しました")
++from usa_logger import setup_usausa_logger^M
++^M
++logger = setup_usausa_logger()^M
++^M
++logger.info("今日のうぐいす大福は大人気でした！")^M
++logger.warning("白玉粉が残り少ないです…")^M
++logger.error("冷蔵庫が壊れました！！")^M
++logger.debug("在庫チェックを開始します")^M
++logger.critical("店舗の水道が止まりました！！！")^M
++logger.info("在庫チェックが完了しました")^M
++^M
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main.py
+>>
+diff --git a/main.py b/main.py
+index 33b2516..206b996 100644
+--- a/main.py
++++ b/main.py
+@@ -8,3 +8,7 @@ logger.error("冷蔵庫が壊れました！！")
+ logger.debug("在庫チェックを開始します")
+ logger.critical("店舗の水道が止まりました！！！")
+ logger.info("在庫チェックが完了しました")
++
++#testhogehoge
++#hogehoge
++#testhogehoge
+PS C:\Users\yukik\Desktop\excel\usausalog> git add main.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git commit -m "Add test comments to main.py"
+[main ed310a1] Add test comments to main.py
+ 1 file changed, 4 insertions(+)
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 321 bytes | 160.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+   03a09a4..ed310a1  main -> main
+PS C:\Users\yukik\Desktop\excel\usausalog> git status
+>> 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+        modified:   usa_logger.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitattributes
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\yukik\Desktop\excel\usausalog> git fetch
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff origin/main
+diff --git a/main.py b/main.py
+index 206b996..437c9a1 100644
+--- a/main.py
++++ b/main.py
+@@ -12,3 +12,5 @@ logger.info("在庫チェックが完了しました")
+ #testhogehoge
+ #hogehoge
+ #testhogehoge
++
++#stash#コミットしない
+diff --git a/usa_logger.py b/usa_logger.py
+index 2486b4b..9d820af 100644
+--- a/usa_logger.py
++++ b/usa_logger.py
+@@ -57,4 +57,7 @@ def setup_usausa_logger(log_dir='logs', log_name='usausa.log'):
+ # 2025-10-05 17:00:07,039 [WARNING] - 白玉粉が残り少ないです…
+ # 2025-10-05 17:00:07,039 [ERROR] - 冷蔵庫が壊れました！！
+ # 2025-10-05 17:00:07,039 [CRITICAL] - 店舗の水道が止まりました！！！
+-# 2025-10-05 17:00:07,039 [INFO] - 在庫チェックが完了しました
+\ No newline at end of file
++# 2025-10-05 17:00:07,039 [INFO] - 在庫チェックが完了しました
++
++
++#stashテスト入れる
+\ No newline at end of file
+PS C:\Users\yukik\Desktop\excel\usausalog> ^C
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff --name-only origin/main
+>>
+main.py
+usa_logger.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git add usa_logger.py
+>> git commit -m "stashテスト入れる"  # 適宜メッセージ変えてOK
+>> git push origin main
+>>
+[main 670a029] stashテスト入れる
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 57.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+   ed310a1..670a029  main -> main
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash push -m "main.pyの一時避難"
+Saved working directory and index state On main: main.pyの一時避難
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash list
+>>
+stash@{0}: On main: main.pyの一時避難
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash pop stash@{0}  # 例: 一番新しいスタッシュを戻す
+error: unknown switch `e'
+usage: git stash pop [--index] [-q | --quiet] [<stash>]
+
+    -q, --[no-]quiet      be quiet, only report errors
+    --[no-]index          attempt to recreate the index
+
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash pop
+>>
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitattributes
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (fff1a2a9cbe1179f0a8d25e7be1eb8898e92e3a9)
+PS C:\Users\yukik\Desktop\excel\usausalog> git checkout main
+M       main.py
+M       usa_logger.py
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\yukik\Desktop\excel\usausalog> git pull origin main
+From https://github.com/Forbusinessuseyukikoishiguro/usausalog
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+PS C:\Users\yukik\Desktop\excel\usausalog> git checkout -b feature/new-feature
+>>
+Switched to a new branch 'feature/new-feature'
+PS C:\Users\yukik\Desktop\excel\usausalog> 
+>>
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main.py
+>>
+diff --git a/main.py b/main.py
+diff --git a/main.py b/main.py
+index 33b2516..5bd04ce 100644
+--- a/main.py
++++ b/main.py
+@@ -1,10 +1,12 @@
+-from usa_logger import setup_usausa_logger
+-
+-logger = setup_usausa_logger()
+-
+-logger.info("今日のうぐいす大福は大人気でした！")
+-logger.warning("白玉粉が残り少ないです…")
+-logger.error("冷蔵庫が壊れました！！")
+-logger.debug("在庫チェックを開始します")
+-logger.critical("店舗の水道が止まりました！！！")
+-logger.info("在庫チェックが完了しました")
++from usa_logger import setup_usausa_logger^M
++^M
++logger = setup_usausa_logger()^M
++^M
++logger.info("今日のうぐいす大福は大人気でした！")^M
++logger.warning("白玉粉が残り少ないです…")^M
++logger.error("冷蔵庫が壊れました！！")^M
++logger.debug("在庫チェックを開始します")^M
++logger.critical("店舗の水道が止まりました！！！")^M
++logger.info("在庫チェックが完了しました")^M
++^M
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff main.py
+>>
+diff --git a/main.py b/main.py
+index 33b2516..206b996 100644
+--- a/main.py
++++ b/main.py
+@@ -8,3 +8,7 @@ logger.error("冷蔵庫が壊れました！！")
+ logger.debug("在庫チェックを開始します")
+ logger.critical("店舗の水道が止まりました！！！")
+ logger.info("在庫チェックが完了しました")
++
++#testhogehoge
++#hogehoge
++#testhogehoge
+PS C:\Users\yukik\Desktop\excel\usausalog> git add main.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git commit -m "Add test comments to main.py"
+[main ed310a1] Add test comments to main.py
+ 1 file changed, 4 insertions(+)
+PS C:\Users\yukik\Desktop\excel\usausalog> git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 321 bytes | 160.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+   03a09a4..ed310a1  main -> main
+PS C:\Users\yukik\Desktop\excel\usausalog> git status
+>> 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+        modified:   usa_logger.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitattributes
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\yukik\Desktop\excel\usausalog> git fetch
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff origin/main
+diff --git a/main.py b/main.py
+index 206b996..437c9a1 100644
+--- a/main.py
++++ b/main.py
+@@ -12,3 +12,5 @@ logger.info("在庫チェックが完了しました")
+ #testhogehoge
+ #hogehoge
+ #testhogehoge
++
++#stash#コミットしない
+diff --git a/usa_logger.py b/usa_logger.py
+index 2486b4b..9d820af 100644
+--- a/usa_logger.py
++++ b/usa_logger.py
+@@ -57,4 +57,7 @@ def setup_usausa_logger(log_dir='logs', log_name='usausa.log'):
+ # 2025-10-05 17:00:07,039 [WARNING] - 白玉粉が残り少ないです…
+ # 2025-10-05 17:00:07,039 [ERROR] - 冷蔵庫が壊れました！！
+ # 2025-10-05 17:00:07,039 [CRITICAL] - 店舗の水道が止まりました！！！
+-# 2025-10-05 17:00:07,039 [INFO] - 在庫チェックが完了しました
+\ No newline at end of file
++# 2025-10-05 17:00:07,039 [INFO] - 在庫チェックが完了しました
++
++
++#stashテスト入れる
+\ No newline at end of file
+PS C:\Users\yukik\Desktop\excel\usausalog> ^C
+PS C:\Users\yukik\Desktop\excel\usausalog> git diff --name-only origin/main
+>>
+main.py
+usa_logger.py
+PS C:\Users\yukik\Desktop\excel\usausalog> git add usa_logger.py
+>> git commit -m "stashテスト入れる"  # 適宜メッセージ変えてOK
+>> git push origin main
+>>
+[main 670a029] stashテスト入れる
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 57.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Forbusinessuseyukikoishiguro/usausalog.git
+   ed310a1..670a029  main -> main
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash push -m "main.pyの一時避難"
+Saved working directory and index state On main: main.pyの一時避難
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash list
+>>
+stash@{0}: On main: main.pyの一時避難
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash pop stash@{0}  # 例: 一番新しいスタッシュを戻す
+error: unknown switch e'
+usage: git stash pop [--index] [-q | --quiet] [<stash>]
+
+    -q, --[no-]quiet      be quiet, only report errors
+    --[no-]index          attempt to recreate the index
+
+PS C:\Users\yukik\Desktop\excel\usausalog> git stash pop
+>>
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitattributes
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (fff1a2a9cbe1179f0a8d25e7be1eb8898e92e3a9)
+PS C:\Users\yukik\Desktop\excel\usausalog> git checkout main
+M       main.py
+M       usa_logger.py
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\yukik\Desktop\excel\usausalog> git pull origin main
+From https://github.com/Forbusinessuseyukikoishiguro/usausalog
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+PS C:\Users\yukik\Desktop\excel\usausalog> git checkout -b feature/new-feature
+>>
+Switched to a new branch 'feature/new-feature'
+PS C:\Users\yukik\Desktop\excel\usausalog> GitとGithub連携　操作方法新人エンジニア向け丁寧
+ChatGPT:
+了解です😊
+ここまでの操作（mainブランチへのpush → stash操作 → 新ブランチ作成）とても丁寧にできていますね！
+では、これをもとに「新人エンジニア向け・GitとGitHubの基本操作手順」をわかりやすくまとめましょう。
+以下は、実務でもそのまま使える流れです。
+
+🧭 GitとGitHub連携の基本操作（新人エンジニア向け）
+はじめに
+こんにちは、友季子です。
+今回は、GitとGitHubを連携して使う基本の流れを、実際のコマンド例とともに丁寧に解説します。
+初めてGitを触る新人エンジニアの方でも、「あ、こうやって進めるんだ！」とイメージできる内容になっています。
+
+1. リポジトリを作成する
+まず、GitHubで新しいリポジトリ（プロジェクトの入れ物）を作ります。
+例：usausalog
+
+次に、ローカル（自分のPC）でリポジトリをクローン（コピー）します：
+
+git clone https://github.com/ユーザー名/リポジトリ名.git
+cd リポジトリ名
+2. ファイルを作成してGitに登録
+作業ディレクトリ内でファイルを作成します。
+例：main.py と usa_logger.py
+
+Gitで管理するには、以下のコマンドを使います：
+
+git add main.py usa_logger.py
+git commit -m "最初のコミット"
+3. ブランチを確認・変更
+Gitには複数の「ブランチ（作業の枝）」を作ることができます。
+最初は master ブランチのことが多いですが、GitHubでは main が標準です。
+
+git branch        # 現在のブランチ確認
+git branch -m master main   # 名前をmainに変更
+4. GitHubへプッシュ（アップロード）
+初回プッシュ時は次のようにします：
+
+git push -u origin main
+これで、GitHubのリポジトリに main ブランチが作成され、同期されます。
+
+5. 変更を加えたら再コミット
+ファイルを編集したら、再度以下の流れを繰り返します：
+
+git status       # 変更確認
+git diff         # 内容確認
+git add main.py  # 変更をステージング
+git commit -m "変更内容を説明"
+git push origin main  # GitHubへ反映
+6. 作業を一時的に退避したい（stash）
+作業途中で他のブランチに切り替えたい場合、stash が便利です。
+変更を一時的に避難させます。
+
+git stash push -m "main.pyの一時避難"
+git stash list         # スタッシュ一覧
+git stash pop          # 一番新しいスタッシュを戻す
+7. 新しい機能を作る（ブランチの活用）
+機能ごとにブランチを切ると、開発が安全・効率的になります。
+
+git checkout -b feature/new-feature
+作業が終わったら：
+
+git add .
+git commit -m "新機能追加"
+git push origin feature/new-feature
+GitHub上で「Pull Request（PR）」を作成すれば、main にマージ（統合）できます。
+
+8. 最新状態を取り込む（pull）
+他の人が更新した変更を取り込むときは：
+
+git pull origin main
+これで、チーム全員が最新の状態で作業できます。
+
+9. よく使うGitコマンド早見表
+コマンド	説明
+git status	変更状況の確認
+git diff	変更内容の確認
+git add <file>	変更をステージング
+git commit -m "メッセージ"	変更を保存
+git push origin <branch>	GitHubへ反映
+git pull origin <branch>	最新変更を取得
+git stash push	作業の一時退避
+git stash pop	退避した作業を戻す
+git checkout -b <branch>	新しいブランチ作成
+git branch -m master main	ブランチ名変更
+終わりに
+Gitのコマンドは最初は少し難しく感じるかもしれませんが、
+一連の流れを理解すれば、チーム開発でも安心して使いこなせるようになります。
+
+次のステップとしては、
+「Pull Requestの作り方」や「コンフリクト解消」なども学んでおくと良いです🌸
+
+希望があれば、これを Qiita風の記事形式（見出し付き） や
+チーム教育用のPDFドキュメント にまとめることもできますが、どちらの形式にしますか？
+
+あなた:
+Git　とGitHub連携のよくあるエラーと対応
+ChatGPT:
+とても良いテーマです✨
+「GitとGitHub連携のよくあるエラーと対応」は、新人エンジニアがつまずきやすいポイントです。
+以下に、実際の現場でもよく遭遇するエラーとその対処法を、初心者にもわかりやすくまとめました。
+
+🧩 GitとGitHub連携のよくあるエラーと対応まとめ（新人エンジニア向け）
+はじめに
+こんにちは、友季子です。
+GitとGitHubを使い始めたばかりの頃、「エラーが出たけど何をすればいいのか分からない…」という経験、ありませんか？
+今回はそんなときに役立つ、よくあるGitエラーとその解決法を紹介します。
+どれも現場で実際に遭遇しやすいケースばかりです！
+
+1. ❌ error: src refspec main does not match any
+💡 原因
+ローカルに main ブランチが存在していない状態で、git push origin main を実行したときに出るエラーです。
+
+error: src refspec main does not match any
+✅ 対応方法
+まず、今どのブランチにいるかを確認します。
+
+git branch
+もしブランチ名が master なら、以下のように main に変更します：
+
+git branch -m master main
+git push -u origin main
+これで、GitHub上にmainブランチが作られ、今後はgit push origin mainでプッシュできます。
+
+2. ⚠️ fatal: remote origin already exists
+💡 原因
+すでに「origin」という名前のリモートリポジトリが登録されているのに、再度 git remote add origin ... を実行したときに出ます。
+
+✅ 対応方法
+リモート設定を確認し、不要なものを削除または上書きします。
+
+git remote -v              # 現在の設定を確認
+git remote remove origin   # 一度削除
+git remote add origin https://github.com/ユーザー名/リポジトリ名.git
+3. 🔒 fatal: Authentication failed
+💡 原因
+GitHubの認証に失敗しています。
+特に、GitHubがパスワード認証を廃止し、トークン認証に変更されたことが原因のケースが多いです。
+
+✅ 対応方法
+GitHubで「Personal Access Token (PAT)」を発行
+　👉 GitHub Settings > Developer settings > Personal access tokens
+
+Git push 時にパスワードの代わりにそのトークンを使用
+
+一度設定したら、git credential-manager が自動で保存してくれます。
+
+4. 🔁 fatal: refusing to merge unrelated histories
+💡 原因
+ローカルとGitHubで別々に履歴が作られていて、履歴がつながっていない状態。
+
+✅ 対応方法
+以下のように--allow-unrelated-historiesオプションを付けて強制的にマージできます。
+
+git pull origin main --allow-unrelated-histories
+その後、コンフリクト（競合）が発生したら手動で解決し、再度コミットします。
+
+5. 🚫 error: failed to push some refs to ...
+💡 原因
+リモート（GitHub）にある内容が、ローカルより新しいときに出るエラーです。
+つまり、他の人がすでに変更をプッシュしています。
+
+✅ 対応方法
+まず、最新の状態を取り込みましょう。
+
+git pull origin main --rebase
+コンフリクトがなければ、自分の変更を再度プッシュできます：
+
+git push origin main
+もしコンフリクトが発生したら、該当ファイルを修正して再コミットしてください。
+
+6. 🧳 Your branch is ahead of 'origin/main' by 1 commit.
+💡 原因
+ローカルでコミットしたが、まだGitHubに反映されていない状態です。
+
+✅ 対応方法
+単純にプッシュすればOKです：
+
+git push origin main
+7. 💭 nothing to commit, working tree clean
+💡 原因
+すでに全ての変更がコミット済みのため、追加するものがない状態です。
+
+✅ 対応方法
+もしファイルを変更したのにこのメッセージが出る場合は、
+変更が保存されていないか、別ブランチにいる可能性があります。
+
+ファイルを保存したか確認
+
+git branch でブランチを確認
+
+8. 🧺 did not match any files known to git
+💡 原因
+git addで指定したファイル名にタイプミスがあるときに出ます。
+
+✅ 対応方法
+ファイル名を正しく確認して再実行：
+
+git status
+git add 正しいファイル名
+9. 🧩 CONFLICT（コンフリクト）
+💡 原因
+他の人の変更と自分の変更が同じ行にあるとき、Gitはどちらを残すか判断できません。
+
+✅ 対応方法
+該当ファイルを開くと、以下のようなマークが付きます：
+
+<<<<<<< HEAD
+自分の変更
+=======
+相手の変更
+>>>>>>> origin/main
+どちらか、または両方を残して修正したあと：
+
+git add 修正したファイル
+git commit
+git push
+10. 🗂️ LF will be replaced by CRLF の警告
+💡 原因
+改行コード（LinuxとWindowsの違い）による警告です。
+Windowsでは通常このままで問題ありません。
+
+✅ 対応方法
+警告を非表示にしたい場合は以下を設定：
+
+git config --global core.autocrlf true
+終わりに
+Gitは最初、英語のエラーメッセージに戸惑うことが多いですが、
+原因を冷静に読み取って少しずつ慣れることが大切です。
+
+「怖い」と感じたら、すぐにgit statusとgit branchで状況を確認しましょう。
+この2つのコマンドは“現在地の地図”のようなものです🗺️
+
+希望があれば、この記事を
+📘 Qiita用（読みやすい装飾＋実例つき）
+または
+📄 社内共有用PDF（チーム教育向けレイアウト）
+の形に整えることもできます。
+どちらの形式にしましょうか？
+
+あなた:
+Git仮想環境作成エラー　GitHub連携　対応
+ChatGPT:
+とても良いテーマです👏
+「Git 仮想環境作成エラー ＋ GitHub連携対応」は、開発初心者がよくつまずく複合トラブルのひとつです。
+ここでは、Pythonの仮想環境（venv）＋Git＋GitHubの連携時に起きやすいエラーと、その具体的な解決策を新人エンジニア向けに丁寧にまとめます。
+
+🧩 Git 仮想環境作成エラーと GitHub 連携トラブル対応まとめ（新人エンジニア向け）
+はじめに
+こんにちは、友季子です。
+Pythonの開発を進めるとき、Gitでバージョン管理しながら、
+仮想環境（venvやvenv/Scripts/activateなど）を作るのは基本的な流れですよね。
+
+でも、次のようなトラブルが起きることがあります👇
+
+仮想環境が作れない・起動しない
+
+.venv フォルダがGitHubに上がってしまった
+
+GitHubへのPush時に容量エラーや無限差分発生
+
+.gitignore設定漏れで環境ファイルが競合
+
+これらは実務でも頻出します。順を追って解説します💡
+
+1. ⚠️ 仮想環境の作成エラー
+💬 よくあるエラーメッセージ
+Error: [WinError 5] アクセスが拒否されました。
+Error: The system cannot find the path specified
+💡 原因
+Pythonのパスが通っていない
+
+作業フォルダに権限がない
+
+すでに .venv フォルダが壊れて残っている
+
+✅ 対応方法
+以下の手順でリセットします。
+
+# 1. 古い仮想環境フォルダを削除
+rmdir /s /q .venv
+
+# 2. 新しく仮想環境を作成
+python -m venv .venv
+
+# 3. 有効化
+.venv\Scripts\activate
+仮想環境が有効になると、コマンドプロンプトがこうなります👇
+
+(.venv) PS C:\Users\yukik\Desktop\project>
+2. 🚫 .venv がGitHubにアップされてしまう
+💡 原因
+.gitignoreに仮想環境フォルダ（例: .venv/）が書かれていない。
+
+GitはPythonライブラリの実体を追跡してしまい、数百MB規模の差分が発生することも。
+
+✅ 対応方法
+.gitignoreファイルを作成（または編集）
+
+以下を追加：
+
+# Python 仮想環境
+.venv/
+venv/
+__pycache__/
+*.pyc
+.venv がすでにGitに登録済みの場合は以下で除外：
+
+git rm -r --cached .venv
+git commit -m "Remove .venv from tracking"
+git push origin main
+🔍 .gitignore の設定は「コミット前に」行うのが鉄則です！
+
+3. 💥 GitHubへのPush時に容量オーバー
+💬 よくあるエラーメッセージ
+remote: error: GH001: Large files detected.
+remote: error: File .venv/... exceeds 100 MB
+💡 原因
+GitHubは1ファイル100MB超をアップロードできません。
+.venv や __pycache__ などが含まれていると、上限を超えることがあります。
+
+✅ 対応方法
+上記 .gitignore の設定を行い、不要ファイルを削除した上で再Push：
+
+git rm -r --cached .venv __pycache__
+git commit -m "Remove large files"
+git push origin main
+4. 🔐 「venvがアクティベートできない」エラー
+💬 よくあるメッセージ
+このシステムではスクリプトの実行が無効になっているため、ファイルを読み込むことができません。
+💡 原因
+Windows PowerShellの実行ポリシーが制限されているためです。
+
+✅ 対応方法
+管理者モードでPowerShellを開き、以下を実行：
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+これで .venv\Scripts\activate が有効になります。
+
+5. 🧩 GitHub連携で仮想環境を含めたくない場合の設定
+プロジェクトをGitHubにアップするときは、依存関係リストだけ共有するのがベストです。
+
+✅ 推奨手順
+仮想環境を作成・ライブラリをインストール
+
+依存関係をファイル化
+
+pip freeze > requirements.txt
+.venv/ を .gitignore に追加
+
+GitHubには requirements.txt だけコミット
+
+他の開発者は次のように同じ環境を再現できます👇
+
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+6. 🔄 GitHub連携でのブランチトラブル
+💬 例：ブランチ名が違う
+error: src refspec main does not match any
+✅ 対応方法
+ブランチ名を確認して統一：
+
+git branch -m master main
+git push -u origin main
+7. 🧺 まとめ：トラブル対応の基本コマンド一覧
+状況	コマンド
+仮想環境作成	python -m venv .venv
+有効化	.venv\Scripts\activate
+無効化	deactivate
+依存関係出力	pip freeze > requirements.txt
+.venv除外設定	.gitignore に .venv/
+仮想環境をGit管理から外す	git rm -r --cached .venv
+GitHubに初回Push	git push -u origin main
+終わりに
+GitとPython仮想環境は、慣れるまでは少しややこしいですが、
+「どのフォルダをGitで管理すべきか」を理解すればスムーズに扱えます✨
+
+特に、
+
+.venv は ローカル専用
+
+requirements.txt は チーム共有用
+
+この2つを意識して運用すれば、GitHub連携でのトラブルはほぼ防げます。
+
+ご希望があれば、この内容を
+📝 Qiita記事風（新人教育向けに読みやすく）
+または
+📘 社内ドキュメントPDF形式
+に整形して出力できます。
+
+どちらの形式にしましょうか？
+
+あなた:
+プルリクエスト　ブランチ切り替え　差分比較　ス達手
+ChatGPT:
+了解です 👍
+では、GitHubでの「プルリクエスト作成からブランチ切り替え・差分比較までの手順」を、実務でもそのまま使える形でまとめますね。
+初心者にもわかりやすく、失敗しやすいポイントも添えています。
+
+🚀 GitHubでのプルリクエスト手順とブランチ操作まとめ
+1. ブランチを切り替える
+まずは作業ブランチ（featureなど）を作成して、切り替えます。
+
+# mainブランチを最新にする
+git checkout main
+git pull origin main
+
+# 新しいブランチを作成して切り替え
+git checkout -b feature/add-login-page
+💡 ポイント：
+
+ブランチ名には「何をしたか」がわかる名前をつけましょう（例：feature/xxx、fix/xxx）。
+
+-b オプションは「作成して切り替え」を意味します。
+
+2. 変更を加えてコミットする
+ファイルを編集後、変更をステージしてコミットします。
+
+git add .
+git commit -m "ログインページを追加"
+💡 よくあるミス：
+
+git add . を忘れて「コミットしたのにGitHubに反映されない」ケース多し。
+
+メッセージは「何を」「なぜ」変更したかを簡潔に書くと◎。
+
+3. GitHubへプッシュする
+git push origin feature/add-login-page
+💡 ポイント：
+
+初回は origin（リモート名）とブランチ名を指定。
+
+以後は同じブランチであれば git push だけでOK。
+
+4. プルリクエスト（Pull Request）を作成
+GitHubの画面で：
+
+リポジトリを開く
+
+「Compare & pull request」ボタンをクリック
+
+base: main（マージ先）
+compare: feature/add-login-page（作業ブランチ）を選択
+
+タイトルと説明を書いて「Create pull request」
+
+💡 ポイント：
+
+base は「取り込まれる側」
+
+compare は「変更を加えた側」
+
+説明には「目的」や「主な変更内容」を書くとレビューしやすいです。
+
+5. 差分を確認する（比較ビュー）
+プルリクエストを作成した後、変更内容（diff）が自動で表示されます。
+行頭の記号の意味👇
+
++：追加された行
+
+-：削除された行
+
+白：変更なし
+
+💡 コマンドで見る場合：
+
+git diff main..feature/add-login-page
+6. レビュー・マージ
+レビューが終わったら、GitHub上で「Merge pull request」→「Confirm merge」。
+
+その後、ローカルでも同期します👇
+
+git checkout main
+git pull origin main
+7. 作業ブランチの削除（整理）
+マージが完了したら不要なブランチを削除しましょう。
+
+git branch -d feature/add-login-page      # ローカル削除
+git push origin --delete feature/add-login-page   # リモート削除
+⚠️ よくあるトラブルと対処法
+エラー・状況	原因	対応方法
+fatal: not a git repository	Git管理外のディレクトリで操作している	git init か正しいフォルダへ移動
+Updates were rejected because the remote contains work that you do not have locally	リモートに先に変更がある	git pull origin main してから再push
+error: failed to push some refs	ブランチがリモートと一致していない	git pull --rebase origin ブランチ名
+差分が出ない	ブランチを切り替えていない	git checkout feature/xxx で確認
+PRに不要なファイルが混ざった	addしすぎた	git reset HEAD ファイル名 でステージ解除
+✅ まとめ
+操作	コマンド例
+ブランチ作成＆切替	git checkout -b feature/xxx
+コミット	git commit -m "説明"
+プッシュ	git push origin feature/xxx
+差分確認	git diff main..feature/xxx
+マージ後同期	git pull origin main
+ご希望があれば、
+
+VSCode画面での操作版（GUI手順）
+
+チーム開発向けの命名規則付きテンプレート
+
+も用意できます。
+どちらを希望されますか？
+
+あなた:
+コミット取り消し　リバート　リベース　すたっしゅなそ
+ChatGPT:
+とても良いテーマですね✨
+「コミット取り消し・リバート・リベース・スタッシュ」は、Gitを使いこなす上で避けて通れない “やり直しの技術” です。
+ここではそれぞれの目的・使い方・注意点を、初心者でも実務で安心して使えるように整理します。
+
+🧭 Gitやり直しの基本：コミット取り消し・リバート・リベース・スタッシュ
+1️⃣ コミット取り消し（git reset）
+💡用途：
+「間違えてコミットした」「もう一度やり直したい」時に使います。
+
+🧩主なモード
+モード	コマンド例	説明
+--soft	git reset --soft HEAD^	コミットだけ取り消し。変更はステージ済み状態で残る
+--mixed（デフォルト）	git reset HEAD^	コミットを取り消し、変更はワークツリーに残る
+--hard	git reset --hard HEAD^	コミットも変更も完全削除（⚠️取り消し不可）
+🔍例：
+# 直前のコミットを取り消し（ファイルは残す）
+git reset HEAD^
+
+# 完全に削除（注意！）
+git reset --hard HEAD^
+💬 注意：
+--hard は履歴もファイルも消すので、チーム開発では慎重に。
+リモートにpush済みの場合は、revertを使うのが安全です（次項参照）。
+
+2️⃣ コミットを取り消す（安全版）→ git revert
+💡用途：
+「間違った変更をpushしてしまった」時に、履歴を保ったまま取り消す。
+
+🧩使い方：
+# 直前のコミットを打ち消す新しいコミットを作る
+git revert HEAD
+
+# 特定のコミットを指定
+git revert <コミットID>
+💬 ポイント：
+
+履歴を壊さないので、チーム開発で安全。
+
+複数コミットをまとめて打ち消すときは --no-commit を活用。
+
+git revert --no-commit HEAD~3..HEAD
+git commit -m "直近3件の変更をまとめて取り消し"
+3️⃣ コミット履歴の整理 → git rebase -i
+💡用途：
+「複数の小さいコミットをまとめたい」「履歴をきれいにしたい」。
+
+🧩使い方：
+# 直近3件をまとめて編集
+git rebase -i HEAD~3
+🧩出てくる画面の例：
+pick a1b2c3 初期コミット
+pick d4e5f6 ログインフォーム追加
+pick g7h8i9 ボタンデザイン修正
+pick を次のように書き換える👇
+
+pick a1b2c3 初期コミット
+squash d4e5f6 ログインフォーム追加
+squash g7h8i9 ボタンデザイン修正
+→ 3つのコミットが1つにまとまります🎯
+
+💬 注意：
+
+すでにpushしたコミットをrebaseで書き換えると他人に影響します。
+
+チーム開発では「push前の整理専用」に使うのが安全です。
+
+4️⃣ 一時的に退避 → git stash
+💡用途：
+「途中だけど一旦ブランチを切り替えたい」「pullしたいけど今の変更は残したい」。
+
+🧩使い方：
+# 一時的に変更を保存
+git stash
+
+# 退避した変更を戻す
+git stash apply
+
+# 適用して一覧から削除
+git stash pop
+
+# スタッシュ一覧を見る
+git stash list
+
+# 特定のスタッシュを削除
+git stash drop stash@{0}
+💬 便利ワザ：
+特定のファイルだけスタッシュも可能👇
+
+git stash push -m "UI修正途中" main.css
+🚨 よくある失敗と対処法
+状況	原因	対処法
+git reset --hard で消えた	履歴削除	git reflog で戻せる場合あり
+rebase でコンフリクト	複数ブランチの同時変更	コンフリクト解消後 git rebase --continue
+stash apply で変なマージが起きた	古いstash適用	最新ブランチに合わせて適用、または --index オプション
+revert でまた差分が残る	revert対象のコミットが複雑	差分を確認して手動で修正後、再コミット
+🧠 まとめ早見表
+コマンド	主な目的	安全性	履歴残る？
+git reset	ローカルでのやり直し	⚠️危険（hard注意）	❌消える（soft除く）
+git revert	push後の修正	✅安全	✅残る
+git rebase -i	履歴整理・まとめ	⚠️注意（push前限定）	✅残る（編集可）
+git stash	一時退避	✅安全	✅残る（stash listに）
+もし希望があれば、
+
+図解つきの「やり直しフローチャート」（どれを使うべきか一目でわかる）
+
+VSCodeでボタン操作する版（右クリックでrevert・stashなど）
+
+も作成できます。
+どちらを先に見たいですか？
+
+あなた:
+差分比較とある時点もどる　ブランチ編　ハッシュ値
+ChatGPT:
+とても良い質問です👏✨
+ここでは、ブランチ間の差分比較と、特定の時点（ハッシュ値）に戻す方法をわかりやすく整理します。
+特にブランチを使うチーム開発では「どこを変更したか」「いつの状態に戻すか」を正確に扱えるのが重要です。
+
+🌿 Gitブランチでの差分比較とハッシュ値を使った戻し方
+1️⃣ ブランチ間の差分を比較する
+💡目的：
+「どのブランチで何が変更されたか」を確認したいとき。
+
+🔧コマンド：
+git diff main..feature/login
+🔍結果：
++ → 追加された行
+
+- → 削除された行
+
+ファイルごとの差分が確認できます。
+
+💡便利オプション：
+オプション	説明
+--stat	変更ファイルの概要だけ表示
+--name-only	変更ファイル名だけ表示
+--color-words	単語単位で色分けして比較
+🔹例：
+
+git diff --stat main..develop
+git diff --name-only feature/add-ui
+2️⃣ コミット履歴を比較して確認
+💡目的：
+「どのコミットがブランチ間で違うか」を見たいとき。
+
+🔧コマンド：
+git log main..feature/login --oneline
+🪶出力例：
+
+a1b2c3d フォームのバリデーション追加
+d4e5f6g ログインボタン修正
+💬 意味：
+
+main にはないが feature/login に含まれるコミットを表示。
+
+逆に比較したい場合：
+
+git log feature/login..main --oneline
+3️⃣ ある時点（ハッシュ値）に戻る
+💡ハッシュ値とは？
+Gitの各コミットに付与される一意の識別子。
+git log --oneline で確認できます👇
+
+git log --oneline
+出力例：
+
+a1b2c3d 修正: ログイン画面
+d4e5f6g 追加: ユーザーモデル
+g7h8i9j 初期設定
+🧩 戻す方法は3通り
+操作目的	コマンド	説明
+一時的にその状態を見たい	git checkout <ハッシュ値>	指定時点に移動（detached HEAD）
+ブランチをその時点に戻したい	git reset --hard <ハッシュ値>	その時点の状態まで巻き戻し（注意）
+戻したいけど履歴は残したい	git revert <ハッシュ値>	打ち消しコミットを作成（安全）
+🔧 例：ハッシュ値で戻る（安全な手順）
+# 変更履歴を確認
+git log --oneline
+
+# 戻したいコミットを確認してコピー（例：d4e5f6g）
+
+# その時点に一時的に戻る
+git checkout d4e5f6g
+💬この状態では「detached HEAD」と表示されます。
+過去の状態を確認するだけならOKですが、作業を続けたい場合は👇
+
+git checkout -b fix/rollback-test
+→ 過去時点から新しいブランチを作って作業可能。
+
+4️⃣ 「ブランチをある時点に戻す」実践例
+💡例：
+develop ブランチを2つ前のコミットまで戻したい。
+
+git checkout develop
+git reset --hard HEAD~2
+git push origin develop --force
+⚠️ 注意：
+
+--hard は削除を伴うので、他人と共有しているブランチではNG。
+
+チーム開発中なら「revert」を推奨。
+
+5️⃣ ハッシュ値でブランチを比較する
+ブランチではなく、特定のコミット間を比較したい場合👇
+
+git diff a1b2c3d d4e5f6g
+💬 これで「ある時点から別の時点まで何が変わったか」を確認できます。
+
+🔍 6️⃣ VSCodeでのGUI比較方法（便利）
+サイドバー「ソース管理」 → 「ブランチ」アイコン
+
+比較したいブランチを右クリック → 「Compare with Selected」
+
+ファイルごとの差分をGUIで確認可能
+
+またはコマンドパレット（Ctrl + Shift + P）で：
+
+Git: Compare with Branch...
+🧠 まとめ早見表
+操作	コマンド	用途
+ブランチ差分	git diff main..develop	2ブランチの変更比較
+コミット差分	git diff <hash1> <hash2>	任意の2時点を比較
+ハッシュ確認	git log --oneline	履歴とIDを確認
+一時的に戻る	git checkout <hash>	その時点に移動
+履歴を壊さず戻す	git revert <hash>	安全に取り消し
+強制的に戻す	git reset --hard <hash>	履歴も含めて巻き戻し（注意）
+💡おすすめ運用ルール（チーム向け）
+
+操作	安全性	使うタイミング
+revert	✅安全	push後の修正
+reset --hard	⚠️注意	ローカル修正を全破棄
+checkout <hash>	✅安全	過去確認・一時作業
+diff	✅安全	レビュー・検証用
+ご希望があれば、
+🧩「図解付きで理解できるGitタイムライン（ブランチとハッシュの関係）」
+も作成できます。
+
+要件に合わせて、
+
+実務チーム開発向け
+
+個人開発・学習向け
+
+どちらで見たいですか？
+
+あなた:
+ある一部回避してある一部コミットプッシュ　
+ChatGPT:
+とても良いポイントです！🌱
+Gitでは、**「一部の変更だけコミット・プッシュして、他は回避する（保留する）」**ことができます。
+これは実務で非常によく使われるテクニックです。
+
+🎯 目的
+作業中のファイルのうち、一部の変更だけコミット＆プッシュし、
+他の変更は一時的に保留したい（コミットしない）。
+
+🧩 方法1：git add -p（パッチモードで部分選択）
+💡 使う状況
+1つのファイルの中で複数の変更をしたけれど、
+「この部分だけ先にコミットしたい」というとき。
+
+🔧 コマンド
+git add -p
+🔍 手順
+Gitが変更を「hunk（変更のかたまり）」ごとに表示
+
+各変更ごとに次のような選択肢が出ます：
+
+コマンド	意味
+y	ステージに追加する（コミット対象にする）
+n	ステージに追加しない（保留）
+s	変更をさらに細かく分割
+q	終了
+a	この変更以降すべて追加
+d	この変更以降すべて除外
+✅ 選択が終わったら、
+
+git commit -m "必要な変更だけコミット"
+git push origin main
+→ 選んだ部分だけがリモート（GitHub）に反映されます。
+
+🧩 方法2：ファイル単位で選別してコミット
+💡 使う状況
+「ファイルAはコミットしたいけど、ファイルBはまだ修正中」というとき。
+
+🔧 コマンド
+git add main.py
+git commit -m "main.pyの修正だけコミット"
+git push origin main
+🪶結果：
+
+main.py の変更 → コミット＆プッシュ済み
+
+usa_logger.py の変更 → そのまま作業ディレクトリに残る
+
+🧩 方法3：一時的に保留する（git stash）
+💡 使う状況
+「他の修正を一時的に避難して、必要な部分だけコミットしたい」とき。
+
+🔧 手順例
+# すべての作業を一時的に退避
+git stash push -m "保留中の修正"
+
+# 戻したいファイルだけ復元（部分復元）
+git stash pop --patch
+🪶ポイント：
+
+--patchを使うと、どの変更を戻すか選べます。
+
+選択が終わったら、必要な変更だけコミットできます。
+
+🧩 方法4：GUIで選択（VSCodeの場合）
+左の「ソース管理」アイコンを開く
+
+変更されたファイルが一覧に表示される
+
+コミットしたいファイルだけ「＋」をクリック（ステージに追加）
+
+下部のメッセージ欄にコメントを入力 → ✅ クリックでコミット
+
+Ctrl + Shift + P → 「Git: Push」でプッシュ
+
+💡1ファイル内の特定の行だけコミットしたいときも、VSCodeの差分ビューで右クリック → 「ステージする行」を選べます。
+
+🧠 応用：両方使うパターン
+💬 よくある実務フロー👇
+
+# 修正中に関係ない変更も混じってしまった…
+git stash push -m "未完成部分を避難"
+# 必要な修正だけコミット
+git add -p
+git commit -m "一部修正のみ反映"
+git push origin feature/new-feature
+# あとで保留してた変更を戻す
+git stash pop
+💡まとめ
+目的	コマンド	特徴
+一部行だけコミット	git add -p	最も細かく選べる
+ファイル単位でコミット	git add <file>	簡単・安全
+未完部分を避難	git stash push	作業を一時退避
+保留分を後で戻す	git stash pop	元の状態に戻す
+GUI操作したい	VSCodeのソース管理	視覚的に操作できる
+ご希望があれば、
+🎨「VSCode上で一部だけステージングする画面キャプチャ付き手順」
+や
+🧠「stashとcommitを組み合わせた実務シナリオ図」
+
+も作成できます。
+どちらを見たいですか？
+
+あなた:
+ブランチ確認してプッシュ　マージ　一部ブランチ確認してプッシュ
+ChatGPT:
+いい質問です！
+「ブランチ確認 → プッシュ → マージ → 一部ブランチだけプッシュ」という流れは、チーム開発で非常によく行う操作です。
+以下で、手順とポイントを具体的に整理します👇
+
+🧭 基本の流れ：ブランチ確認 → プッシュ → マージ
+① 現在のブランチを確認
+git branch
+* が付いているブランチが、今いるブランチです。
+
+すべてのブランチをリモート含めて見る場合：
+
+git branch -a
+② 変更をステージングしてコミット
+git add .
+git commit -m "修正内容を記述"
+③ プッシュ（現在のブランチをリモートへ送信）
+git push origin ブランチ名
+例：
+
+git push origin feature/update-ui
+④ マージ（別ブランチに統合）
+方法1：GitHub上でプルリクエスト（推奨）
+GUIで確認しやすく、コンフリクトもわかりやすいです。
+
+方法2：ローカルでマージ
+マージ先（例：main）へ切り替え
+
+git checkout main
+マージ実行
+
+git merge feature/update-ui
+コンフリクトがなければ、プッシュ
+
+git push origin main
+🧩 一部のブランチのみプッシュする方法
+ローカルで複数のブランチがある場合でも、指定したブランチだけプッシュできます。
+
+✅ 現在ブランチのみプッシュ
+git push origin HEAD
+「HEAD」は今いるブランチを意味します。
+
+複数ブランチをまとめてプッシュしたくないときに安全です。
+
+✅ 特定のブランチだけプッシュ
+git push origin feature/fix-bug
+他のブランチには影響しません。
+
+✅ 一部のコミットだけを含めてプッシュ（応用）
+もしブランチ内の一部だけを反映したい場合は、
+
+git cherry-pick <コミットハッシュ>
+で、必要なコミットだけ別ブランチに移してからプッシュします。
+
+🧠 補足：差分確認（プッシュ前チェック）
+現在のブランチとリモートの差分
+git diff origin/ブランチ名
+直前のコミットとの変更点
+git diff HEAD~1
+🔒 安全運用のポイント
+プッシュ前に git pull origin ブランチ名 で最新を取得する
+→ コンフリクト防止。
+
+マージ作業は必ずテスト後に。
+
+リベース操作（git rebase）は共有前ブランチでのみ実行。
+
+もし「特定のブランチAの内容を、別ブランチBにだけ反映してプッシュしたい」などの部分的な実例を知りたい場合、
+構成例を挙げて具体的に操作コマンドを説明できます。
+
+どんなケースを想定していますか？（例：「開発ブランチからmainへ一部だけ反映したい」など）
+
+あなた:
+ローカルブランチ指定してリモートリポジトリのブランチ指定してプッシュしてプルリクエスト
+ChatGPT:
+とても良い質問です💡
+「ローカルブランチ → リモートブランチ指定 → プッシュ → プルリクエスト」
+というのは、チーム開発の中で最も基本で、よく使う安全なフローです。
+
+以下で、具体的な手順＋実際のコマンド例を順を追って説明します👇
+
+🧭 全体の流れ
+ローカルでブランチを作る・確認する
+
+リモートの特定ブランチ名を指定してプッシュ
+
+GitHub上でプルリクエストを作成する
+
+🪴 1. ローカルブランチの作成と確認
+新しいブランチを作成して移動
+git checkout -b feature/add-login
+feature/add-login はブランチ名（任意）
+
+-b で「作成してそのまま切り替え」
+
+現在のブランチを確認
+git branch
+（* がついているのが現在のブランチ）
+
+💾 2. リモートのブランチを指定してプッシュ
+通常のプッシュ（ローカル名とリモート名が同じ場合）
+git push origin feature/add-login
+✅ リモートブランチ名を明示的に指定する場合
+git push origin ローカルブランチ名:リモートブランチ名
+例：
+
+git push origin feature/add-login:dev-login
+👉 この例では：
+
+ローカルブランチ：feature/add-login
+
+リモートブランチ：dev-login
+
+となります。
+つまり「ローカルの feature/add-login の内容を、リモートの dev-login に反映」します。
+
+🧩 3. GitHubでプルリクエスト（PR）を作成
+GitHubの対象リポジトリを開く
+
+「Compare & pull request」ボタンをクリック
+（プッシュ直後に自動的に表示されます）
+
+ベースブランチ（例：main） と
+比較ブランチ（例：dev-login） を確認
+
+タイトルと説明を入力して「Create pull request」
+
+🧠 補足：確認系コマンド
+現在のリモート設定を確認
+git remote -v
+リモートのブランチ一覧を見る
+git branch -r
+ローカル・リモート含めたすべてのブランチを見る
+git branch -a
+⚠️ 注意点（よくあるトラブル）
+状況	対応
+push時に「リモートが古い」と出る	まず git pull origin 対象ブランチ
+リモートブランチを間違えた	git push origin --delete ブランチ名 で削除可能
+リモートに新しいブランチを反映したい	最初の git push に -u をつけて紐付け
+git push -u origin feature/add-login
+これで以後は：
+
+git push
+git pull
+だけでOKになります。
+
+🎯 まとめ（例）
+# 1. 新しいブランチを作成
+git checkout -b feature/add-login
+
+# 2. 変更をコミット
+git add .
+git commit -m "Add login feature"
+
+# 3. ローカル→リモートにブランチ名を変えてプッシュ
+git push origin feature/add-login:dev-login
+
+# 4. GitHubでプルリク作成
+# （Compare & pull request ボタンから）
+ご希望あれば、
+「コマンドラインでプルリクエストを自動作成する（GitHub CLI使用）」
+の方法も紹介できます。
+
+👉 続けて知りたいですか？
+
+あなた:
+コミットやりなおし　ステージングやりなおし　プッシュやりなおし
+ChatGPT:
+すごく良いテーマです✨
+「コミット」「ステージング」「プッシュ」をやり直すケースは、Git初心者〜中級者でもよく遭遇します。
+それぞれのやり直し方を目的別に整理して説明します👇
+
+🧭 全体の流れと考え方
+Gitでの変更は次の3段階で管理されます：
+
+作業ディレクトリ → ステージングエリア → ローカルリポジトリ → リモートリポジトリ
+つまり、やり直したい場所に応じて対応が異なります。
+
+段階	操作	やり直しコマンド
+作業ディレクトリ	ファイルを編集	git checkout -- ファイル名
+ステージングエリア	git add 済み	git restore --staged ファイル名
+コミット後	git commit 済み	git commit --amend や git reset
+プッシュ後	git push 済み	git push --force（※要注意）
+🪴 1. ステージングのやり直し
+✅ 全部ステージ解除
+git restore --staged .
+✅ 特定のファイルだけ解除
+git restore --staged ファイル名
+💡これで、ファイルは「コミット対象」から外れて、
+「編集済みだがまだ add してない」状態に戻ります。
+
+💾 2. コミットのやり直し
+✅ 直前のコミットメッセージを修正
+git commit --amend -m "新しいコミットメッセージ"
+✅ 直前のコミットに追加でファイルを含めたい
+git add 追加したいファイル
+git commit --amend --no-edit
+（メッセージはそのままで中身だけ上書き）
+
+🧹 3. コミットを取り消してやり直す（まだプッシュ前）
+✅ 直前のコミットを「やり直し」たい（ステージに戻す）
+git reset --soft HEAD~1
+➡ コミットだけ取り消して、変更はステージに残る。
+
+✅ コミットとステージ両方を取り消す
+git reset --mixed HEAD~1
+➡ コミット前の「編集済み状態」に戻る。
+
+✅ 変更自体もすべて破棄
+git reset --hard HEAD~1
+⚠️ ファイルも完全に元に戻るので注意！
+
+☁️ 4. プッシュ後のやり直し（慎重に！）
+リモートに push 済みのコミットを修正したい場合：
+
+✅ 修正コミットを上書きして再プッシュ
+git commit --amend
+git push --force
+⚠️ 注意：他の人が同じブランチを使っている場合は絶対NGです。
+共同開発では新しいブランチを切って修正した方が安全です。
+
+🔧 5. プッシュ内容を取り消す（リモートを戻したい）
+✅ ローカルとリモートを特定の状態に戻す
+git reset --hard <コミットハッシュ>
+git push origin ブランチ名 --force
+または安全なやり方👇
+
+✅ revert で取り消しコミットを作る
+git revert <コミットハッシュ>
+git push origin ブランチ名
+これなら履歴を壊さずに取り消せます。
+
+🧠 よく使うやり直しまとめ表
+やりたいこと	コマンド	説明
+ステージ解除	git restore --staged .	addを取り消す
+コミット修正	git commit --amend	最新のコミットを上書き
+1つ前に戻す（変更保持）	git reset --soft HEAD~1	コミットをやり直す
+変更も含めて戻す	git reset --hard HEAD~1	完全に元へ
+プッシュ済みを修正	git push --force	強制上書き（要注意）
+プッシュ済みを安全に取り消す	git revert <ハッシュ>	履歴を壊さず戻す
+🎯 例：コミットやり直してプッシュし直す流れ
+# 変更を追加
+git add .
+git commit -m "typo修正"
+
+# あ、間違えた！
+git commit --amend -m "typo修正（スペル修正）"
+
+# リモートを上書き
+git push origin feature/fix-typo --force
+ご希望あれば、
+「共同開発で安全にコミットをやり直す運用ルール（revert運用／force禁止運用）」
+のようなチーム向け実践方法も紹介できます。
+
+→ 次にそれもまとめますか？
+
+GPT-5 の Free プランの上限に達しました。
+制限が 明日の 0:58 以降. にリセットされるまで、回答では別のモデルが使用されます。
+
+アップグレードする
+
+
+
+選択されていません選択されていません
+ChatGPT の回答は必ずしも正しいとは限りません。重要な情報は確認するようにしてください。
+
+翻訳
