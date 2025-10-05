@@ -58,3 +58,6 @@ def setup_usausa_logger(log_dir='logs', log_name='usausa.log'):
 # 2025-10-05 17:00:07,039 [ERROR] - 冷蔵庫が壊れました！！
 # 2025-10-05 17:00:07,039 [CRITICAL] - 店舗の水道が止まりました！！！
 # 2025-10-05 17:00:07,039 [INFO] - 在庫チェックが完了しました
+
+
+#stashテスト入れる
